@@ -14,9 +14,9 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Create React App + Go API</h1>
+      <h1>This is Prism App</h1>
       <h2>
-        Deployed with{' '}
+        Have develop for Adrián Fernando Gaitán Londoño with React{' '}
         <a
           href="https://vercel.com/docs"
           target="_blank"
